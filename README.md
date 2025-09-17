@@ -5,10 +5,15 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos em
 🚀 Funcionalidades
   
 · Abre automaticamente o navegador Google Chrome.
+
 · Acessa a página de login do sistema.
+
 · Realiza o login com usuário e senha.
+
 · Lê os dados de um arquivo produtos.csv.
+
 · Preenche automaticamente os campos do formulário com os dados da tabela.
+
 · Realiza o cadastro de cada produto de forma repetitiva e automatizada.
 
 🛠 Tecnologias utilizadas
