@@ -19,18 +19,25 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos em
 🛠 Tecnologias utilizadas
 
 · Python 3.13.5
+
 · PyAutoGUI
 · Pandas
 
+
 📦 automacao-cadastro-produtos
+
  ┣ 📜 teste.py        # Script principal da automação
+ 
  ┣ 📜 produtos.csv        # Base de dados com os produtos
+ 
  ┗ 📜 README.md           # Documentação do projeto
 
  ⚠️ Observações Importantes
 
   · Os cliques e preenchimentos utilizam coordenadas fixas de tela (x, y). Se a resolução da sua tela for diferente, pode ser necessário ajustar os valores.
+  
   · Certifique-se de ter o navegador Google Chrome instalado.
+  
   · O site utilizado é apenas um exemplo de prática fornecido pela Hashtag Treinamentos.
 
 📄 Licença
