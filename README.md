@@ -19,7 +19,8 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos em
 
 📦 automacao-cadastro-produtos
  ┣ 📜 teste.py        # Script principal da automação
- ┗ 📜 produtos.csv        # Base de dados com os produtos
+ ┣ 📜 produtos.csv        # Base de dados com os produtos
+ ┗ 📜 README.md           # Documentação do projeto
 
  ⚠️ Observações Importantes
 
